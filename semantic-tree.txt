@@ -1,0 +1,91 @@
+
+body
+|
+|-- header
+|   |-- h1
+|   |-- p
+|   |
+|   |-- nav
+|       |-- ul
+|           |-- li
+|           |   |-- a
+|           |-- li
+|           |   |-- a
+|           |-- li
+|           |   |-- a
+|           |-- li
+|           |   |-- a
+|           |-- li
+|               |-- a
+|
+|-- main
+|   |
+|   |-- section (Top Story)
+|   |   |-- h2
+|   |   |-- article
+|   |       |-- h3
+|   |       |-- p
+|   |       |-- p
+|   |           |-- time
+|   |
+|   |-- section (Latest News)
+|   |   |-- h2
+|   |   |-- article
+|   |   |   |-- h3
+|   |   |   |-- p
+|   |   |   |-- p
+|   |   |       |-- time
+|   |   |
+|   |   |-- article
+|   |       |-- h3
+|   |       |-- p
+|   |       |-- p
+|   |           |-- time
+|   |
+|   |-- section (Technology News)
+|   |   |-- h2
+|   |   |-- article
+|   |   |   |-- h3
+|   |   |   |-- p
+|   |   |   |-- p
+|   |   |       |-- time
+|   |   |
+|   |   |-- article
+|   |       |-- h3
+|   |       |-- p
+|   |       |-- p
+|   |           |-- time
+|   |
+|   |-- section (Sports News)
+|   |   |-- h2
+|   |   |-- article
+|   |   |   |-- h3
+|   |   |   |-- p
+|   |   |   |-- p
+|   |   |       |-- time
+|   |   |
+|   |   |-- article
+|   |       |-- h3
+|   |       |-- p
+|   |       |-- p
+|   |           |-- time
+|   |
+|   |-- aside (Most-Read Stories)
+|       |-- h2
+|       |-- ol
+|           |-- li
+|           |   |-- a
+|           |-- li
+|           |   |-- a
+|           |-- li
+|           |   |-- a
+|           |-- li
+|               |-- a
+|
+|-- footer
+    |-- h2
+    |-- address
+    |   |-- br
+    |   |-- br
+    |   |-- a
+    |-- p

@@ -1,0 +1,22 @@
+
+DIV ELEMENT JUSTIFICATION
+
+No div elements were used in this HTML document.
+
+All content has been grouped using appropriate semantic HTML elements.
+
+The header contains the newspaper name and primary navigation.
+
+The main element contains the primary newspaper content.
+
+Section elements group the news stories into meaningful categories.
+
+Article elements represent individual news stories that can stand independently.
+
+The aside element contains the most-read stories, which are related to the newspaper content but are supplementary.
+
+The footer contains the newspaper's contact information and copyright notice.
+
+Since each content group has an appropriate semantic element, a generic div element was not necessary.
+
+This approach improves document structure, accessibility, and readability.
